@@ -1,0 +1,3 @@
+[submodule "external/describe-anything"]
+	path = external/describe-anything
+	url = https://github.com/smriti-19/describe-anything.git
