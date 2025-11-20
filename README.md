@@ -2,7 +2,7 @@
 
 # DAM + LocalityGuard Extension
 
-This repository hosts my course project on **Describe Anything Model (DAM)** and an inference-time extension called **LocalityGuard**.
+This repository hosts our course project on **Describe Anything Model (DAM)** and an inference-time extension called **LocalityGuard**.
 
 The high-level goal is:
 
