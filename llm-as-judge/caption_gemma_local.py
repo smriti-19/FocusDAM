@@ -116,8 +116,6 @@ def generate_caption_gemma(model, processor, image: Image.Image, mask: Image.Ima
     vis_image = create_masked_visualization(image, mask, visualization_mode)
 
     # Gemma expects a specific prompt format with <start_of_image> token
-    # Use a simpler completion-style prompt that works better with Gemma
-    # Instead of the full template, use a simple descriptive prompt
     gemma_prompt = "<start_of_image> The highlighted object in this image is"
 
     # Process inputs
@@ -177,55 +175,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description='Generate captions for DLC-Bench using local Gemma model',
         formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-Examples:
-  # Generate captions using Gemma 3 4B (normal)
-  python caption_gemma_local.py \\
-    --model google/gemma-3-4b-pt \\
-    --output gemma_3_4b_captions.json
-
-  # Use 4-bit quantization to save VRAM (recommended for 8GB GPUs)
-  python caption_gemma_local.py \\
-    --model google/gemma-3-4b-pt \\
-    --output gemma_3_4b_captions.json \\
-    --load-in-4bit
-
-  # Use 8-bit quantization (balanced memory/quality)
-  python caption_gemma_local.py \\
-    --model google/gemma-3-4b-pt \\
-    --output gemma_3_4b_captions.json \\
-    --load-in-8bit
-
-  # Quick test (10 samples)
-  python caption_gemma_local.py \\
-    --model google/gemma-3-4b-pt \\
-    --output test_gemma.json \\
-    --limit 10 \\
-    --verbose
-
-Memory Requirements:
-  - 4B model (FP16): ~8GB VRAM
-  - 4B model (8-bit): ~4GB VRAM
-  - 4B model (4-bit): ~2-3GB VRAM
-  - 9B model (FP16): ~18GB VRAM
-  - 9B model (4-bit): ~5-6GB VRAM
-
-Supported models:
-  Gemma 3 (requires transformers >= 4.48.0):
-  - google/gemma-3-4b-pt (4B parameters)
-  - google/gemma-3-9b-pt (9B parameters)
-
-  PaliGemma (vision-language, works with older transformers):
-  - google/paligemma-3b-pt-224 (3B parameters, 224px)
-  - google/paligemma-3b-pt-448 (3B parameters, 448px, better quality)
-  - google/paligemma-3b-pt-896 (3B parameters, 896px, best quality)
-
-Note: Requires HuggingFace authentication for Gemma models.
-Run: huggingface-cli login
-
-For quantization, install: pip install bitsandbytes
-For Gemma 3 support: pip install --upgrade transformers
-        """)
+        epilog="")
 
     parser.add_argument('--model', type=str, default='google/gemma-3-4b-pt',
                        help='Gemma model from HuggingFace (default: google/gemma-3-4b-pt)')
@@ -333,12 +283,6 @@ For Gemma 3 support: pip install --upgrade transformers
         if "gemma3" in str(e).lower():
             print(f"Error: Gemma 3 models require transformers >= 4.48.0")
             print(f"Your version: {__import__('transformers').__version__}")
-            print("\nOptions:")
-            print("1. Upgrade transformers: pip install --upgrade transformers")
-            print("2. Use Gemma 2 models instead:")
-            print("   - google/paligemma-3b-pt-224")
-            print("   - google/paligemma-3b-pt-448")
-            print("   - google/paligemma-3b-pt-896")
             raise
         else:
             print(f"Error loading model: {e}")
@@ -350,11 +294,8 @@ For Gemma 3 support: pip install --upgrade transformers
             raise
     except Exception as e:
         print(f"Error loading model: {e}")
-        print("\nMake sure you have:")
-        print("1. Accepted Gemma license on HuggingFace")
-        print("2. Logged in with: huggingface-cli login")
         if args.load_in_4bit or args.load_in_8bit:
-            print("3. Installed bitsandbytes: pip install bitsandbytes")
+            print("Missing bitsandbytes")
         raise
 
     # Load DLC-Bench data
@@ -363,7 +304,6 @@ For Gemma 3 support: pip install --upgrade transformers
         coco, class_names = load_dlc_bench_data(args.data_root)
     except Exception as e:
         print(f"Error loading DLC-Bench data: {e}")
-        print("Make sure scipy is installed: pip install scipy")
         raise
 
     # Get all annotation IDs

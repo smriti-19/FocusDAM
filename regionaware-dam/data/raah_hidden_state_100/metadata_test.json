@@ -1,0 +1,1602 @@
+[
+  {
+    "ann_id": 4,
+    "file_name": "objects365_v1_00546894.jpg",
+    "bbox": [
+      135.56219481850002,
+      194.3108520448,
+      74.94299316569999,
+      114.73577881600002
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_4.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 5,
+    "file_name": "objects365_v1_00546894.jpg",
+    "bbox": [
+      135.56219481850002,
+      194.3108520448,
+      74.94299316569999,
+      114.73577881600002
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_5.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 12,
+    "file_name": "objects365_v2_01670956.jpg",
+    "bbox": [
+      751.8032225149999,
+      1219.027343765,
+      361.6142579228002,
+      353.4877931199999
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_12.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 15,
+    "file_name": "objects365_v2_01066134.jpg",
+    "bbox": [
+      795.9866943488,
+      321.7807617,
+      108.1450194944,
+      253.28686525749998
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_15.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 24,
+    "file_name": "objects365_v1_00046735.jpg",
+    "bbox": [
+      3.4972534399999997,
+      251.652954112,
+      115.47412108799999,
+      110.78009031679997
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_24.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 34,
+    "file_name": "objects365_v2_01069549.jpg",
+    "bbox": [
+      465.76000978350004,
+      874.5810546688,
+      99.83630372579995,
+      82.48278814720004
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_34.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 44,
+    "file_name": "objects365_v2_00919558.jpg",
+    "bbox": [
+      120.5583496192,
+      322.9652099619,
+      165.9321288704,
+      112.39001461430007
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_44.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 48,
+    "file_name": "objects365_v2_02074080.jpg",
+    "bbox": [
+      668.308837888,
+      590.3597412096,
+      134.25744629760004,
+      77.07360837120007
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_48.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 50,
+    "file_name": "objects365_v2_02074080.jpg",
+    "bbox": [
+      668.308837888,
+      590.3597412096,
+      134.25744629760004,
+      77.07360837120007
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_50.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 52,
+    "file_name": "objects365_v2_01603154.jpg",
+    "bbox": [
+      960.1181641200001,
+      559.10473632,
+      32.05517568000005,
+      94.11962887999994
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_52.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 54,
+    "file_name": "objects365_v2_01979239.jpg",
+    "bbox": [
+      642.547119104,
+      675.8695068672,
+      112.58056642559995,
+      91.93383782399997
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_54.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 64,
+    "file_name": "objects365_v2_02084512.jpg",
+    "bbox": [
+      6.0458984607,
+      1317.9775391475,
+      654.6689452254,
+      635.9638672530002
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_64.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 66,
+    "file_name": "objects365_v2_02084512.jpg",
+    "bbox": [
+      6.0458984607,
+      1317.9775391475,
+      654.6689452254,
+      635.9638672530002
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_66.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 74,
+    "file_name": "objects365_v1_00070966.jpg",
+    "bbox": [
+      7.8054199296,
+      260.5906372096,
+      118.06469724159999,
+      107.15911864319997
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_74.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 76,
+    "file_name": "objects365_v1_00070966.jpg",
+    "bbox": [
+      7.8054199296,
+      260.5906372096,
+      118.06469724159999,
+      107.15911864319997
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_76.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 87,
+    "file_name": "objects365_v1_00072913.jpg",
+    "bbox": [
+      551.300415037,
+      214.414978048,
+      104.95349121710001,
+      109.62969968640002
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_87.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 89,
+    "file_name": "objects365_v2_01153620.jpg",
+    "bbox": [
+      126.0621337663,
+      715.9232178176,
+      51.4360962443,
+      152.40332021760003
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_89.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 91,
+    "file_name": "objects365_v2_01153620.jpg",
+    "bbox": [
+      126.0621337663,
+      715.9232178176,
+      51.4360962443,
+      152.40332021760003
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_91.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 92,
+    "file_name": "objects365_v2_01153620.jpg",
+    "bbox": [
+      126.0621337663,
+      715.9232178176,
+      51.4360962443,
+      152.40332021760003
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_92.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 105,
+    "file_name": "objects365_v2_02000287.jpg",
+    "bbox": [
+      485.8067627008,
+      577.595336892,
+      133.06787112959995,
+      134.4326171888
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_105.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 106,
+    "file_name": "objects365_v2_02000287.jpg",
+    "bbox": [
+      485.8067627008,
+      577.595336892,
+      133.06787112959995,
+      134.4326171888
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_106.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 108,
+    "file_name": "objects365_v2_02000287.jpg",
+    "bbox": [
+      485.8067627008,
+      577.595336892,
+      133.06787112959995,
+      134.4326171888
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_108.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 115,
+    "file_name": "objects365_v2_01595902.jpg",
+    "bbox": [
+      435.1027613696,
+      244.2209697024,
+      90.57335357440002,
+      229.91697438720007
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_115.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 119,
+    "file_name": "objects365_v2_01352280.jpg",
+    "bbox": [
+      84.406249984,
+      385.12451172970003,
+      112.629028352,
+      103.51928711029996
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_119.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 124,
+    "file_name": "objects365_v2_01085899.jpg",
+    "bbox": [
+      825.7368163605,
+      284.27008055699997,
+      150.82873538700005,
+      81.71832279540001
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_124.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 142,
+    "file_name": "objects365_v2_01142975.jpg",
+    "bbox": [
+      875.8208008192,
+      224.5195922816,
+      146.32287590399994,
+      197.78924559360001
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_142.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 143,
+    "file_name": "objects365_v2_01142975.jpg",
+    "bbox": [
+      875.8208008192,
+      224.5195922816,
+      146.32287590399994,
+      197.78924559360001
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_143.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 146,
+    "file_name": "objects365_v2_02279022.jpg",
+    "bbox": [
+      4756.073242118399,
+      784.693847808,
+      426.52441434240063,
+      180.1889646336
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_146.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 160,
+    "file_name": "objects365_v2_01930365.jpg",
+    "bbox": [
+      485.855956992,
+      509.35388186169996,
+      390.5273438208,
+      51.91528317050006
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_160.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 174,
+    "file_name": "objects365_v1_00182133.jpg",
+    "bbox": [
+      269.2917480438,
+      236.5734253056,
+      57.185180638500015,
+      73.1101684224
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_174.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 175,
+    "file_name": "objects365_v1_00182133.jpg",
+    "bbox": [
+      269.2917480438,
+      236.5734253056,
+      57.185180638500015,
+      73.1101684224
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_175.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 178,
+    "file_name": "objects365_v1_00182133.jpg",
+    "bbox": [
+      269.2917480438,
+      236.5734253056,
+      57.185180638500015,
+      73.1101684224
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_178.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 184,
+    "file_name": "objects365_v2_01461541.jpg",
+    "bbox": [
+      172.2561035264,
+      218.02294923949998,
+      208.0706787328,
+      209.95068360450003
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_184.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 186,
+    "file_name": "objects365_v2_01461541.jpg",
+    "bbox": [
+      172.2561035264,
+      218.02294923949998,
+      208.0706787328,
+      209.95068360450003
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_186.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 196,
+    "file_name": "objects365_v2_01705585.jpg",
+    "bbox": [
+      569.5458983936,
+      506.87170410600004,
+      224.05651855359997,
+      95.35229491320001
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_196.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 209,
+    "file_name": "objects365_v2_01763866.jpg",
+    "bbox": [
+      255.0103759872,
+      279.5526123007,
+      160.66760253439998,
+      140.50012205960002
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_209.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 211,
+    "file_name": "objects365_v2_01478715.jpg",
+    "bbox": [
+      686.9516601024001,
+      2399.2084961664,
+      133.79687502719992,
+      412.29199223039996
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_211.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 216,
+    "file_name": "objects365_v2_01210998.jpg",
+    "bbox": [
+      505.12072756780003,
+      586.1375732736,
+      86.51428217969999,
+      90.63391109120005
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_216.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 218,
+    "file_name": "objects365_v2_01210998.jpg",
+    "bbox": [
+      505.12072756780003,
+      586.1375732736,
+      86.51428217969999,
+      90.63391109120005
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_218.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 233,
+    "file_name": "objects365_v2_01678907.jpg",
+    "bbox": [
+      2209.5151367928,
+      2570.6274415464,
+      177.51757805279976,
+      614.2680661522004
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_233.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 249,
+    "file_name": "objects365_v2_02071693.jpg",
+    "bbox": [
+      62.8884277248,
+      574.5722656512,
+      105.51147458559998,
+      74.87927239679993
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_249.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 260,
+    "file_name": "objects365_v1_00201000.jpg",
+    "bbox": [
+      67.1470947328,
+      734.8002930015999,
+      54.444580095999996,
+      82.67504881040009
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_260.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 262,
+    "file_name": "objects365_v1_00201000.jpg",
+    "bbox": [
+      67.1470947328,
+      734.8002930015999,
+      54.444580095999996,
+      82.67504881040009
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_262.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 267,
+    "file_name": "objects365_v1_00067033.jpg",
+    "bbox": [
+      310.7297363456,
+      248.588073728,
+      83.13665771520004,
+      65.4249267712
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_267.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 268,
+    "file_name": "objects365_v1_00067033.jpg",
+    "bbox": [
+      310.7297363456,
+      248.588073728,
+      83.13665771520004,
+      65.4249267712
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_268.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 275,
+    "file_name": "objects365_v2_02232372.jpg",
+    "bbox": [
+      594.8037109718999,
+      260.9189453171,
+      197.06396487480004,
+      386.54846194510003
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_275.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 277,
+    "file_name": "objects365_v2_01164434.jpg",
+    "bbox": [
+      230.6578369536,
+      255.01641845759997,
+      42.893676748799976,
+      282.8805541632
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_277.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 279,
+    "file_name": "objects365_v1_00275264.jpg",
+    "bbox": [
+      409.44036864,
+      636.158691387,
+      104.09967042560004,
+      41.26000978319996
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_279.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 287,
+    "file_name": "objects365_v2_01731616.jpg",
+    "bbox": [
+      3.9583739904,
+      336.1828613376,
+      182.3491211264,
+      202.92541501439996
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_287.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 290,
+    "file_name": "objects365_v1_00043008.jpg",
+    "bbox": [
+      135.39562990099998,
+      393.9619750912,
+      69.35437011710005,
+      61.73846435840005
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_290.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 308,
+    "file_name": "objects365_v2_01058344.jpg",
+    "bbox": [
+      439.2331542528,
+      61.539916998,
+      153.03881840639997,
+      208.4373779075
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_308.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 311,
+    "file_name": "objects365_v2_01006271.jpg",
+    "bbox": [
+      363.0000000312,
+      2543.5102540000003,
+      907.5898435037,
+      200.48242159999973
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_311.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 314,
+    "file_name": "objects365_v2_00953050.jpg",
+    "bbox": [
+      583.6965331968,
+      246.5753173586,
+      96.7230224384,
+      72.3518677212
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_314.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 330,
+    "file_name": "objects365_v1_00612295.jpg",
+    "bbox": [
+      305.196411136,
+      244.44982907649998,
+      124.18261719039998,
+      83.1231079517
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_330.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 331,
+    "file_name": "objects365_v1_00612295.jpg",
+    "bbox": [
+      305.196411136,
+      244.44982907649998,
+      124.18261719039998,
+      83.1231079517
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_331.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 332,
+    "file_name": "objects365_v1_00612295.jpg",
+    "bbox": [
+      305.196411136,
+      244.44982907649998,
+      124.18261719039998,
+      83.1231079517
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_332.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 333,
+    "file_name": "objects365_v1_00612295.jpg",
+    "bbox": [
+      305.196411136,
+      244.44982907649998,
+      124.18261719039998,
+      83.1231079517
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_333.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 347,
+    "file_name": "objects365_v2_01435911.jpg",
+    "bbox": [
+      730.4488525824,
+      298.26177978600003,
+      111.841064448,
+      111.84100339349993
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_347.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 349,
+    "file_name": "objects365_v2_01435911.jpg",
+    "bbox": [
+      730.4488525824,
+      298.26177978600003,
+      111.841064448,
+      111.84100339349993
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_349.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 374,
+    "file_name": "objects365_v1_00439208.jpg",
+    "bbox": [
+      83.3347167596,
+      33.0980224512,
+      130.02423100840002,
+      143.3955078144
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_374.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 375,
+    "file_name": "objects365_v1_00439208.jpg",
+    "bbox": [
+      83.3347167596,
+      33.0980224512,
+      130.02423100840002,
+      143.3955078144
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_375.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 381,
+    "file_name": "objects365_v1_00716375.jpg",
+    "bbox": [
+      29.205505382400002,
+      95.2707519488,
+      91.8269653248,
+      83.8700561408
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_381.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 414,
+    "file_name": "objects365_v2_01705481.jpg",
+    "bbox": [
+      154.3548583936,
+      489.8325195456,
+      127.44885258239998,
+      83.59875489899991
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_414.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 415,
+    "file_name": "objects365_v2_01705481.jpg",
+    "bbox": [
+      154.3548583936,
+      489.8325195456,
+      127.44885258239998,
+      83.59875489899991
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_415.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 416,
+    "file_name": "objects365_v2_01705481.jpg",
+    "bbox": [
+      154.3548583936,
+      489.8325195456,
+      127.44885258239998,
+      83.59875489899991
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_416.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 419,
+    "file_name": "objects365_v2_01705481.jpg",
+    "bbox": [
+      154.3548583936,
+      489.8325195456,
+      127.44885258239998,
+      83.59875489899991
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_419.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 421,
+    "file_name": "objects365_v2_01258725.jpg",
+    "bbox": [
+      579.04833984,
+      297.5405273088,
+      63.92114257920002,
+      348.934082048
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_421.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 422,
+    "file_name": "objects365_v2_01048513.jpg",
+    "bbox": [
+      0.4017334272,
+      263.2764892646,
+      152.61108398079998,
+      166.91833498200003
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_422.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 423,
+    "file_name": "objects365_v2_01048513.jpg",
+    "bbox": [
+      0.4017334272,
+      263.2764892646,
+      152.61108398079998,
+      166.91833498200003
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_423.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 428,
+    "file_name": "objects365_v2_01971484.jpg",
+    "bbox": [
+      800.31005856,
+      2919.83740224,
+      218.107422144,
+      677.0424806400001
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_428.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 431,
+    "file_name": "objects365_v2_01817945.jpg",
+    "bbox": [
+      332.22583008000004,
+      456.9577636864,
+      109.43408200319993,
+      110.5566405632
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_431.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 444,
+    "file_name": "objects365_v1_00708833.jpg",
+    "bbox": [
+      391.1273803776,
+      161.0256347634,
+      48.19744870400001,
+      115.53210447299998
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_444.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 448,
+    "file_name": "objects365_v2_02146162.jpg",
+    "bbox": [
+      1157.6455078144,
+      138.224121024,
+      186.52685539840013,
+      269.2138671552
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_448.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 453,
+    "file_name": "objects365_v2_02025179.jpg",
+    "bbox": [
+      484.7213134848,
+      318.66455078399997,
+      104.46630860799996,
+      92.85888668160004
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_453.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 468,
+    "file_name": "objects365_v1_00708961.jpg",
+    "bbox": [
+      99.4295654132,
+      71.7205200384,
+      78.8557739436,
+      57.6253661696
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_468.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 469,
+    "file_name": "objects365_v1_00708961.jpg",
+    "bbox": [
+      99.4295654132,
+      71.7205200384,
+      78.8557739436,
+      57.6253661696
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_469.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 475,
+    "file_name": "objects365_v2_01473246.jpg",
+    "bbox": [
+      37.721313471600006,
+      554.7014160384,
+      62.732421856500004,
+      77.03613276160002
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_475.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 477,
+    "file_name": "objects365_v2_01473246.jpg",
+    "bbox": [
+      37.721313471600006,
+      554.7014160384,
+      62.732421856500004,
+      77.03613276160002
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_477.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 480,
+    "file_name": "objects365_v2_02146162.jpg",
+    "bbox": [
+      1188.4743653376,
+      470.718749952,
+      113.4035643136001,
+      284.50390636800006
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_480.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 483,
+    "file_name": "objects365_v2_02146162.jpg",
+    "bbox": [
+      1188.4743653376,
+      470.718749952,
+      113.4035643136001,
+      284.50390636800006
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_483.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 489,
+    "file_name": "objects365_v2_01265177.jpg",
+    "bbox": [
+      191.994140672,
+      226.35595706879997,
+      256.7424316416,
+      63.26599119360003
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_489.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 509,
+    "file_name": "objects365_v1_00526069.jpg",
+    "bbox": [
+      171.9278564775,
+      366.4225463808,
+      100.95190424950002,
+      38.6624145408
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_509.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 517,
+    "file_name": "objects365_v2_01060153.jpg",
+    "bbox": [
+      316.3112793024,
+      1420.140625,
+      120.351806592,
+      352.0734864000001
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_517.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 521,
+    "file_name": "objects365_v2_01624102.jpg",
+    "bbox": [
+      149.838134784,
+      593.2686767562001,
+      72.2442627072,
+      70.16320800239987
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_521.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 541,
+    "file_name": "objects365_v2_00947006.jpg",
+    "bbox": [
+      389.3439941632,
+      334.0025024124,
+      205.19921868799997,
+      94.36492924079994
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_541.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 544,
+    "file_name": "objects365_v2_00947006.jpg",
+    "bbox": [
+      389.3439941632,
+      334.0025024124,
+      205.19921868799997,
+      94.36492924079994
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_544.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 545,
+    "file_name": "objects365_v1_00405972.jpg",
+    "bbox": [
+      230.415100102,
+      206.2487182848,
+      75.82952880490001,
+      80.64117427200003
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_545.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 574,
+    "file_name": "objects365_v2_01959582.jpg",
+    "bbox": [
+      143.13415519999998,
+      481.38464352,
+      216.43286144000004,
+      149.11425780000008
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_574.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 583,
+    "file_name": "objects365_v1_00520099.jpg",
+    "bbox": [
+      110.94744874339999,
+      27.4406738432,
+      91.02239991130001,
+      70.4260864
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_583.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 594,
+    "file_name": "objects365_v2_01163863.jpg",
+    "bbox": [
+      345.097412096,
+      445.80444335640004,
+      164.71789547519995,
+      154.25964357479995
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_594.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 604,
+    "file_name": "objects365_v2_02187812.jpg",
+    "bbox": [
+      403.743652352,
+      399.41772464639996,
+      92.81323243519995,
+      95.75952145920002
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_604.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 607,
+    "file_name": "objects365_v2_02027992.jpg",
+    "bbox": [
+      50.0920410112,
+      483.33386227200003,
+      104.8077392896,
+      106.88317877759994
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_607.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 616,
+    "file_name": "objects365_v2_01523727.jpg",
+    "bbox": [
+      628.9844971008,
+      693.7481689088,
+      139.01586908159993,
+      157.46240235519997
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_616.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 622,
+    "file_name": "objects365_v1_00030330.jpg",
+    "bbox": [
+      174.0609741312,
+      290.3412475824,
+      105.76074219520001,
+      45.45855708659997
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_622.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 630,
+    "file_name": "objects365_v2_01406291.jpg",
+    "bbox": [
+      367.0686034944,
+      436.2927245784,
+      94.02734376960001,
+      256.19812018519997
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_630.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 646,
+    "file_name": "objects365_v2_00938227.jpg",
+    "bbox": [
+      642.3175049216,
+      411.632080056,
+      107.90942382080004,
+      75.39514164400003
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_646.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 647,
+    "file_name": "objects365_v2_00938227.jpg",
+    "bbox": [
+      642.3175049216,
+      411.632080056,
+      107.90942382080004,
+      75.39514164400003
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_647.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 648,
+    "file_name": "objects365_v2_00938227.jpg",
+    "bbox": [
+      642.3175049216,
+      411.632080056,
+      107.90942382080004,
+      75.39514164400003
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_648.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 652,
+    "file_name": "objects365_v2_02044698.jpg",
+    "bbox": [
+      1067.5334473149999,
+      97.279113771,
+      67.62255853360011,
+      191.96063235
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_652.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  },
+  {
+    "ann_id": 658,
+    "file_name": "objects365_v2_01429428.jpg",
+    "bbox": [
+      290.364257792,
+      618.0120849453,
+      371.3872070656,
+      64.986084
+    ],
+    "hidden_states_path": "data/raah_hidden_state/hidden_658.pt",
+    "hidden_states_shape": [
+      50,
+      768
+    ],
+    "caption": "The building is a two-story structure with a flat roof. The facade is light-colored, and there are multiple windows on both floors. The windows on the upper floor are smaller and more closely spaced, while the windows on the lower floor are larger and more spaced out. The building has a simple, rectangular shape with clean lines and minimal ornamentation."
+  }
+]

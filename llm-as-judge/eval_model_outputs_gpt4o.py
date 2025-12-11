@@ -367,9 +367,9 @@ if __name__ == '__main__':
         class_name = data_class_names[key]
 
         if is_plural(class_name):
-            recognition_question = f"Is it likely that the objects in the description are {class_name} or objects of a similar type? Again, It does not have to be an exact match."
+            recognition_question = f"Similar type detected: {class_name}"
         else:
-            recognition_question = f"Is it likely that the object in the description is {p.a(class_name)} or an object of a similar type? Again, It does not have to be an exact match."
+            recognition_question = f"Similar type detected: {p.a(class_name)}"
         recognition_question_dict = {
             "question": recognition_question,
             "choices": [("Yes", "correct"), ("No", "incorrect")],

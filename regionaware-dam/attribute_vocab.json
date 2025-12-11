@@ -1,0 +1,139 @@
+{
+  "vocab": {
+    "color": {
+      "beige": 0,
+      "black": 1,
+      "blue": 2,
+      "brown": 3,
+      "crimson": 4,
+      "golden": 5,
+      "gray": 6,
+      "green": 7,
+      "maroon": 8,
+      "navy": 9,
+      "orange": 10,
+      "pink": 11,
+      "purple": 12,
+      "red": 13,
+      "silver": 14,
+      "tan": 15,
+      "turquoise": 16,
+      "white": 17,
+      "yellow": 18
+    },
+    "material": {
+      "aluminum": 0,
+      "ceramic": 1,
+      "concrete": 2,
+      "fabric": 3,
+      "glass": 4,
+      "leather": 5,
+      "metal": 6,
+      "plastic": 7,
+      "rubber": 8,
+      "steel": 9,
+      "stone": 10,
+      "wood": 11
+    },
+    "shape": {
+      "circular": 0,
+      "curved": 1,
+      "cylindrical": 2,
+      "flat": 3,
+      "oval": 4,
+      "rectangular": 5,
+      "round": 6,
+      "spherical": 7,
+      "square": 8,
+      "triangular": 9
+    },
+    "texture": {
+      "fuzzy": 0,
+      "glossy": 1,
+      "hard": 2,
+      "matte": 3,
+      "polished": 4,
+      "rough": 5,
+      "shiny": 6,
+      "smooth": 7,
+      "soft": 8,
+      "striped": 9,
+      "textured": 10
+    }
+  },
+  "idx_to_value": {
+    "color": {
+      "0": "beige",
+      "1": "black",
+      "2": "blue",
+      "3": "brown",
+      "4": "crimson",
+      "5": "golden",
+      "6": "gray",
+      "7": "green",
+      "8": "maroon",
+      "9": "navy",
+      "10": "orange",
+      "11": "pink",
+      "12": "purple",
+      "13": "red",
+      "14": "silver",
+      "15": "tan",
+      "16": "turquoise",
+      "17": "white",
+      "18": "yellow"
+    },
+    "material": {
+      "0": "aluminum",
+      "1": "ceramic",
+      "2": "concrete",
+      "3": "fabric",
+      "4": "glass",
+      "5": "leather",
+      "6": "metal",
+      "7": "plastic",
+      "8": "rubber",
+      "9": "steel",
+      "10": "stone",
+      "11": "wood"
+    },
+    "shape": {
+      "0": "circular",
+      "1": "curved",
+      "2": "cylindrical",
+      "3": "flat",
+      "4": "oval",
+      "5": "rectangular",
+      "6": "round",
+      "7": "spherical",
+      "8": "square",
+      "9": "triangular"
+    },
+    "texture": {
+      "0": "fuzzy",
+      "1": "glossy",
+      "2": "hard",
+      "3": "matte",
+      "4": "polished",
+      "5": "rough",
+      "6": "shiny",
+      "7": "smooth",
+      "8": "soft",
+      "9": "striped",
+      "10": "textured"
+    }
+  },
+  "vocab_sizes": {
+    "color": 19,
+    "material": 12,
+    "shape": 10,
+    "texture": 11
+  },
+  "attribute_types": [
+    "color",
+    "material",
+    "shape",
+    "texture"
+  ],
+  "min_frequency": 2
+}

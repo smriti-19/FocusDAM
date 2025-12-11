@@ -215,27 +215,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description='Generate captions for DLC-Bench using local DAM model',
         formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-Examples:
-  # Generate captions using local DAM-3B
-  python caption_dam_local.py \\
-      --model-path /home/saksham/Desktop/GenAI/Kiru-Project/models/DAM-3B \\
-      --output dam_local_captions.json
-
-  # Use different crop mode
-  python caption_dam_local.py \\
-      --model-path /path/to/model \\
-      --output captions.json \\
-      --crop-mode full
-
-  # Test on limited samples
-  python caption_dam_local.py \\
-      --model-path /path/to/model \\
-      --output test.json \\
-      --limit 10 \\
-      --verbose
-        """)
-
+        epilog="")
     parser.add_argument('--model-path', type=str, required=True,
                        help='Path to DAM model checkpoint')
     parser.add_argument('--output', type=str, required=True,
@@ -362,13 +342,9 @@ Examples:
     # Final save
     with open(args.output, 'w') as f:
         json.dump(captions, f, indent=2)
-
-    print("\n" + "="*80)
-    print("CAPTION GENERATION COMPLETE")
-    print("="*80)
+    print("Success")
     print(f"Processed: {processed}")
     print(f"Skipped (already done): {skipped}")
     print(f"Errors: {errors}")
     print(f"Total captions: {len(captions)}")
     print(f"Output saved to: {args.output}")
-    print("="*80)

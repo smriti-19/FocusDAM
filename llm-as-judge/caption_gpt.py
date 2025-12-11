@@ -311,38 +311,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description='Generate captions for DLC-Bench using vision models (GPT/Qwen/Gemini/Claude)',
         formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-Examples:
-  # Generate captions using GPT-4o
-  python caption_gpt.py --model gpt-4o --output gpt4o_captions.json
-
-  # Generate with GPT-4o-mini (cheaper)
-  python caption_gpt.py --model gpt-4o-mini --output gpt4o_mini_captions.json
-
-  # Generate with Claude Sonnet 4.5
-  python caption_gpt.py --model claude-sonnet-4-5-20250929 --output claude_sonnet_4_5_captions.json
-
-  # Generate with Qwen3-VL-Plus (Alibaba DashScope)
-  python caption_gpt.py --model qwen3-vl-plus --output qwen3_vl_plus_captions.json
-
-  # Generate with Gemini 2.5 Flash (Google)
-  python caption_gpt.py --model gemini-2.5-flash --output gemini_2_5_flash_captions.json
-
-  # Use different prompt template
-  python caption_gpt.py --model gpt-4o --prompt-template very_detailed
-
-  # Use different visualization
-  python caption_gpt.py --model gpt-4o --visualization masked_only
-
-Available prompt templates: default, dam_style, simple, very_detailed
-Available visualizations: highlight, overlay, masked_only, side_by_side
-
-Supported models:
-  - OpenAI: gpt-4o, gpt-4o-mini, gpt-4-turbo (requires OPENAI_API_KEY)
-  - Anthropic: claude-sonnet-4-5-20250929, claude-3-5-sonnet-20241022 (requires ANTHROPIC_API_KEY)
-  - Alibaba: qwen3-vl-plus, qwen-vl-max (requires ALIBABA_API_KEY)
-  - Google: gemini-2.5-flash, gemini-1.5-pro, gemini-1.5-flash (requires GEMINI_API_KEY)
-        """)
+        epilog="")
 
     parser.add_argument('--model', type=str, default='gpt-4o-mini',
                        help='Vision model (gpt-4o, claude-sonnet-4-5-20250929, qwen3-vl-plus, gemini-2.5-flash, etc.)')
@@ -563,12 +532,9 @@ Supported models:
     with open(args.output, 'w') as f:
         json.dump(captions, f, indent=2)
 
-    print("\n" + "="*80)
-    print("CAPTION GENERATION COMPLETE")
-    print("="*80)
+    print("Success")
     print(f"Processed: {processed}")
     print(f"Skipped (already done): {skipped}")
     print(f"Errors: {errors}")
     print(f"Total captions: {len(captions)}")
     print(f"Output saved to: {args.output}")
-    print("="*80)

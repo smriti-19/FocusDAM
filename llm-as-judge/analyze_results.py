@@ -52,7 +52,7 @@ def analyze_results(eval_file: str, paper_pos: float = 52.3, paper_neg: float = 
     """Analyze evaluation results and compare with paper."""
 
     print("=" * 80)
-    print("DLC-BENCH EVALUATION RESULTS ANALYSIS")
+    print("DLC Bench Evaluation Results")
     print("=" * 80)
 
     # Load results
