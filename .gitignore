@@ -165,5 +165,7 @@ llm-as-judge/.DS_Store
 llm-as-judge/paper_examples/
 llm-as-judge/venv/
 llm-as-judge/model_outputs_cache/
+models/DAM-3B/
+models/lora_rephraser
 
 
