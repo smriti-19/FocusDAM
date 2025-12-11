@@ -142,15 +142,13 @@ Area: {ann_info['area']:.0f} px²
 
 def print_example_info(ann_id, class_name, image_id, questions, dam_caption=None):
     """Print example information in a formatted way."""
-    print("\n" + "="*70)
-    print(f"EXAMPLE: Annotation {ann_id}")
-    print("="*70)
+    print(f"Example: Annotation {ann_id}")
     print(f"Image ID: {image_id}")
     print(f"Object Class: {class_name}")
     print(f"Total Questions: {len(questions)}")
 
     if dam_caption:
-        print(f"\nDAM Description:")
+        print(f"DAM Description:")
         print(f"  {dam_caption}")
 
     print()
@@ -180,26 +178,11 @@ def print_example_info(ann_id, class_name, image_id, questions, dam_caption=None
             if correct_idx:
                 print(f"  Correct Answer: {correct_idx}")
 
-    print("="*70 + "\n")
-
 def main():
     parser = argparse.ArgumentParser(
         description='Generate random examples from DLC-Bench for paper figures',
         formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-Examples:
-  # Generate 3 random examples
-  python generate_paper_examples.py --num-examples 3 --output-dir paper_figures
-
-  # Generate 1 example with specific seed for reproducibility
-  python generate_paper_examples.py --num-examples 1 --seed 42
-
-  # Generate examples with DAM captions
-  python generate_paper_examples.py --num-examples 3 --dam-captions model_outputs_cache/dam_local_captions.json
-
-  # Generate examples for specific annotations
-  python generate_paper_examples.py --annotation-ids 2391761 2580318 4243725
-        """
+        epilog=""
     )
 
     parser.add_argument('--data-root', type=str, default='DLC-Bench',
@@ -320,9 +303,8 @@ Examples:
             json.dump(examples_data, f, indent=2)
         print(f"\n✓ Saved example data: {json_path}")
 
-    print(f"\n{'='*70}")
-    print(f"Generated {len(ann_ids)} examples in: {output_dir.absolute()}")
-    print(f"{'='*70}\n")
+    print(f"\n")
+    print(f"Success, examples in: {output_dir.absolute()}")
 
 if __name__ == '__main__':
     main()
