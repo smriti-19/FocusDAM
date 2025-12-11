@@ -168,5 +168,5 @@ llm-as-judge/model_outputs_cache/*
 models/DAM-3B/*
 models/lora_rephraser/*
 data/flickr30k/flickr30k_entities/*
-
-
+data/flickr30k/*
+external/*
